@@ -1,2 +1,2 @@
-yanr build
+yarn build
 git checkout gh-pages
